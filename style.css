@@ -368,7 +368,7 @@ font-size: 16px;
     align-items: center;
     justify-content: space-between;
     gap: 40px;
-    flex-wrap: wrap; /* عشان يكون مناسب للشاشات الصغيرة */
+    flex-wrap: wrap; 
 }
 
 .store-image img {
@@ -411,4 +411,5 @@ font-size: 16px;
 
 .find-store:hover {
     background-color: #555;
+
 }
